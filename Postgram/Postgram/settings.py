@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-a7+l!j$p-k6r+kot@x6y@-sygjd4ya1^%!zlk)9)@j%r+80@96
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','127.0.0.1','codewithvaibh.github.io/Postgram-App/']
 
 
 # Application definition
